@@ -1,0 +1,17 @@
+body{
+    padding: 10px;
+}
+
+.imagen-informacion {
+        display:block;
+        margin:auto;
+        width: 80%;
+}
+
+#cuerpo-info {
+
+padding: 50px;    
+margin:50px;
+border: 3px solid #34A1B8;
+
+}
